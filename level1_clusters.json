@@ -1,0 +1,53 @@
+{
+  "0": {
+    "name": "Systemic and Multisystem Disorders",
+    "diseases": [
+      "Inflammatory and Infectious Disorders",
+      "Acquired Neuromuscular Junction Disorders",
+      "Organ System Diseases",
+      "Respiratory and Systemic Disorders",
+      "Vascular Disorders",
+      "Abdominal Wall Disorders",
+      "Blood Disorders"
+    ]
+  },
+  "3": {
+    "name": "Critical Care Conditions",
+    "diseases": [
+      "Acute Medical Emergencies"
+    ]
+  },
+  "1": {
+    "name": "Respiratory Infections",
+    "diseases": [
+      "Respiratory Tract Disorders",
+      "Respiratory tract infections",
+      "Upper Respiratory Tract Infections",
+      "Bacterial Respiratory Infections"
+    ]
+  },
+  "5": {
+    "name": "Cardiovascular Diseases",
+    "diseases": [
+      "Cardiac Arrhythmias and Ischemic Heart Diseases"
+    ]
+  },
+  "6": {
+    "name": "Viral Hemorrhagic Syndromes",
+    "diseases": [
+      "Viral Hemorrhagic Fevers"
+    ]
+  },
+  "4": {
+    "name": "Cancer of the Chest and Abdomen",
+    "diseases": [
+      "Thoracic and Gastrointestinal Neoplasms"
+    ]
+  },
+  "2": {
+    "name": "Hypersensitivity Disorders",
+    "diseases": [
+      "Allergic Reactions"
+    ]
+  }
+}
