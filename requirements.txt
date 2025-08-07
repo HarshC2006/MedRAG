@@ -1,0 +1,10 @@
+python-dotenv
+llama-index
+pandas
+numpy
+openpyxl
+transformers
+torch
+tqdm
+networkx
+scikit-learn
